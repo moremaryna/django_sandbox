@@ -1,3 +1,3 @@
 web: 
 gunicorn
-gettingstarted.wsgi
+django_sandbox.wsgi
